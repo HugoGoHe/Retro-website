@@ -1,0 +1,29 @@
+body 
+{ 
+    background-image:url("matrix\ .gif"); 
+    background-size:200%
+}
+
+.intro
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(35, 142, 35);
+    background-color: black;
+    padding: 20px;
+    border-style: dotted;
+    border-width: 2px;
+}
+
+.quest 
+{
+    background-color: black;
+    color: rgb(234, 255, 0);
+    margin:  50px;
+    border-style: double;
+}
+
+.last 
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
